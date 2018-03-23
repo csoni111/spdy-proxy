@@ -2,5 +2,6 @@ language: go
 
 go:
   - 1.7
+  - tip
 
-install: make get-deps
+#install: make get-deps
